@@ -16,7 +16,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o timer, siga estas etapas:
 
-[<comando_de_instalação>](https://github.com/netosouza22/timer.git)
+No seu editor de código:
+```
+git clone https://github.com/netosouza22/timer.git
+```
 
 ## ☕ Usando timer
 
