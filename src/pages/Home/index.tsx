@@ -6,7 +6,6 @@ import * as z from "zod";
 
 import CountDown from "../../components/CountDown";
 import Form from "../../components/Form";
-import { PomodoroCycleControls } from "../../components/PomodoroCycleControls";
 import { useCycles } from "../../contexts/CycleContext";
 import {
   HomeContainer,
@@ -45,7 +44,6 @@ export default function Home() {
     <FormProvider {...methods}>
       <HomeContainer>
         <form onSubmit={methods.handleSubmit(onSubmit)} >
-          <PomodoroCycleControls />
           <Form />
           <CountDown />
 
