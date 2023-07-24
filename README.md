@@ -1,12 +1,8 @@
 # Timer
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src=".repository/assets/timer.jpg" alt="Exemplo imagem">
 
 > Projeto feito na trilha de react da Rocketseat, utilizando React Js + typescript, cujo a intenção é criar um timer para execução de tarefas, você insere a tarefa e o tempo para executar ela, podendo interrompê-la. O sistema conta também com um histórico das tarefas.
 
