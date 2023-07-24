@@ -16,15 +16,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o timer, siga estas etapas:
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
+[<comando_de_instalação>](https://github.com/netosouza22/timer.git)
 
 ## ☕ Usando timer
 
