@@ -25,8 +25,22 @@ git clone https://github.com/netosouza22/timer.git
 
 Para usar timer, siga estas etapas:
 
- > yarn install ou npm i para instalar os pacotes
- > yarn dev para iniciar o projeto
+Para instalar os projetos com o terminal aberto na pasta do projeto, digite:
+```
+yarn install
+```
+ou 
+```
+npm i
+```
+para iniciar o projeto:
+```
+yarn dev
+```
+ou
+```
+npm run dev
+```
 
 ## 🤝 Colaboradores
 
