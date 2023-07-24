@@ -36,7 +36,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/63481821?s=96&v=4)" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/63481821" width="100px;" alt="Foto do Neto Sousa no GitHub"/><br>
         <sub>
           <b>Neto Sousa</b>
         </sub>
